@@ -4,7 +4,7 @@ database
     - mongo db
 
 src -all source code
-    - entities - object mappins
+    - entities - object mappins\n
     - factories - instance generators
     - repositories - data access
     - routes - endpoint mappins
