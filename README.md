@@ -1,19 +1,22 @@
 # Node18
 
-database
-    - mongo db
+Node18 is a NodeJS API that uses the version eighteen, with his own suit of tests.
 
-src -all source code
-    - entities - object mappins\n
-    - factories - instance generators
-    - repositories - data access
-    - routes - endpoint mappins
-    - services - communication between the routes and repositories layer (business logic)
-    - util - shared code
-    - handler - communication between routes and server
-    - index -
+## Installation
 
-tests -> all automated test suites
-    - integrations test - testing on the user point of view E2E test because there's no app consuming integrations
+Clone the project and run
 
-    - unit test - all tests that must run wihtout any external connections such as databases, external APIs
+```git
+npm install
+```
+
+## Usage
+
+Not has an use yet
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
